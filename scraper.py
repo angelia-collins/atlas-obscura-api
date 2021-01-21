@@ -163,6 +163,6 @@ def getGastroPlaces(offset, limit):
 
     return places
 
-# TEST CODE HERE
+# TEST CODE HERE -but why doesn't it work
 #response = getAttractions('germany', 'berlin')
 #print(json.dumps(response, separators=(',',':'), indent=3))
